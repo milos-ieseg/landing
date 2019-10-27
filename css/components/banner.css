@@ -1,0 +1,27 @@
+.banner {
+  /* 1. Set a background image */
+  background-image: url(../../images/background.gif);   
+  /* 2. Make the background image cover the banner div */
+	background-size: cover;     
+  /* 3. Center the image */
+	background-position: center;
+	font-size: 200px;
+	border-radius: 4px
+
+}
+
+.banner h1 {
+  color: white;
+  font-size: 50px;
+  margin: 50px
+  font-family: 'Roboto', sans-serif;
+
+}
+.banner h2 {
+  color: white;
+  font-size: 30px;
+  font-weight: lighter;
+	opacity: 0.8;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+

@@ -1,0 +1,20 @@
+
+
+.btn-blue {
+    width: auto;
+    height: 63px;
+    line-height: 57px;
+    background: rgba(255, 255, 255, 0.2);
+    margin: 0 15px;
+    padding: 0 70px;
+    display: inline-block;
+    border: 3px solid #fff;
+    border-radius: 3px;
+    font-weight: 700;
+    font-size: 18px;
+    color: #fff;
+    text-transform: uppercase;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
